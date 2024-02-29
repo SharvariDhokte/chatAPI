@@ -1,0 +1,117 @@
+{
+"restaruntData":[
+    {
+        "email": "the.restaurant@thetranshotel.com",
+        "rating": "4.5",
+        "name": "The Restaurant at The Trans Luxury Hotel",
+        "address": "Gatot Subroto 289 The Trans Luxury Hotel – 3rd Floor, Bandung 40273 Indonesia"
+    },
+    {
+        "rating": "3.5",
+        "address": "Jl. Soekarno-hatta Jl. Mtc Barat No.59040286, Bandung 40286 Indonesia",
+        "name": "Justus Steak House Metro Indah Mall",
+        "email": ""
+    },
+    {  
+        "email": "monomono@thegaiabandung.com",
+        "rating": "2.5",
+        "name": "Monomono",
+        "address": "Jl. Dr. Setiabudi No 430, Bandung 55165 Indonesia"
+    },
+    {
+      
+        "address": "Jl. Sukajadi No.131 - 139 Paris van Java Sky Level SL-C 21, Bandung 40162 Indonesia",
+        "email": "",
+        "name": "Justus Steak House Paris van Java",
+        "rating": "4.0"
+    },
+    {
+        "email": "h9109@accor.com",
+        "name": "Mad Cow Wine & Grill Bandung",
+        "rating": "4.8",
+        "address": "Jl. Diponegoro No.27 Pullman Tower, 17th Floor, Bandung 40115 Indonesia"
+    },
+    {
+        "address": "Miko Mall, Bandung 40227 Indonesia",
+        "rating": "4.2",
+        "name": "Justus Steakhouse - Ciwalk",
+        "email": ""
+    },
+    {
+        "email": "missbee.providore@yahoo.com",
+        "rating": "3.2",
+        "address": "Jl. Ranca Bentang no. 11A Ciumbuleuit, Bandung 40142 Indonesia",
+        "name": "Miss Bee Providore"
+    },
+    {
+        "email": "kumari.bakeandbrew@gmail.com",
+        "name": "Kumari (Bake And Brew)",
+        "address": "Lebakgede, Kecamatan Coblong Jalan Bagusrangin No. 1, Bandung 40132 Indonesia",
+        "rating": "3.9"
+    },
+    {
+        "address": "Jl. Cimanuk No. 08, Bandung 40115 Indonesia",
+        "rating": "3.8",
+        "email": "justussteakhouse@gmail.com",
+        "name": "Justus Steakhouse Cimanuk"
+    },
+    {
+        "address": "Jl. H.O.S. Tjokroaminoto no. 41-43 Hilton Bandung, 6th Floor, Bandung 40172 Indonesia",
+        "name": "Fresco Restaurant",
+        "rating": "5.0",
+        "email": "bdohi_fb@hilton.com",
+        "description": "Located by the rooftop pool, Fresco serves up array of Italian food and beverages. Take in the panoramic city views and enjoy the cool evening breeze as the chefs prepare food at the live interactive kitchen."
+    },
+    {
+        "rating": "2.2",
+        "name": "Justus Steak House Paskal 23",
+        "email": "",
+        "address": "Jl. Paskirkaliki No. 25-27 23 Paskal, Level 3, Bandung 40241 Indonesia"
+    },
+    {
+        "address": "Jl. Peta No 241 Festival Citylink GF no 29, Bandung 40232 Indonesia",
+        "email": "justussteakhouse@gmail.com",
+        "name": "Justus Steak House Festival Citylink",
+        "rating": "4.2"
+    },
+    {
+        "rating": "5.0",
+        "address": "Jl. Gatot Subroto No.83 The Papandayan Hotel, Bandung 40262 Indonesia",
+        "email": "info@thepapandayan.com",
+        "name": "Pago Restaurant"
+    },
+    { 
+        "address": "Jl. Ir. H. Juanda No. 59 Tamansari, Bandung Wetan, Bandung 40116 Indonesia",
+        "rating": "4.5",
+        "name": "Justus Steak House Dago",
+        "email": "justussteakhouse@gmail.com"
+    },
+    {
+        "name": "Purnawarman Restaurant",
+        "rating": "5.0",
+        "address": "Jl. HOS Tjokroaminoto no. 41-43 Hilton Hotel Bandung, Bandung 40172 Indonesia",
+        "email": "bdohi_fb@hilton.com"
+    },
+    {
+        "rating": "2.8",
+        "name": "Bijan",
+        "address": "Jl. Jawa No.54, Bandung 40113 Indonesia"
+    },
+    {
+        "rating": "3.5",
+        "name": "Justus Steak House Miko Mall",
+        "address": "Miko Mall, Bandung 40227 Indonesia"
+    },
+    {
+        "rating": "4.5",
+        "address": "Jl. Pasir Kaliki No.25-27 Paskal Hyper Square, Blok J, The House Convention Hall, Bandung 40181 Indonesia",
+        "name": "Noughts And Crosses Coffee"
+    },
+    {
+        "email": "hummingbird_eatery@yahoo.com",
+        "rating": "3.5",
+        "name": "Hummingbird Eatery & Space",
+        "address": "Jl. Progo 14, Bandung 40115 Indonesia"
+    }
+]
+}
